@@ -1,4 +1,4 @@
-# DataGlimpse
+# DataGlimpse  (for case study refer to respective report)
 
 **Amazon Top 50 Bestselling Books 2009 – 2019**
 
