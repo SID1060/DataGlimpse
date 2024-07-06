@@ -17,7 +17,7 @@ Model Evaluation: Evaluate the performance of the regression model using metrics
 Insights: Provide actionable insights based on the regression analysis, highlighting factors that contribute to the success of bestselling books.
 
 **Churn Modelling**
-
+[Churn Prediction Streamlit App](https://churnprediction-by.streamlit.app/)
 *Classification Model*
 Utilize real-life employee data to build and train a classification model aimed at predicting employee churn. Preprocess the data, select important features, and employ machine learning algorithms to identify the most accurate model.
 
